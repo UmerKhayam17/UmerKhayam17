@@ -16,7 +16,6 @@
 ### 🚀 About Me
 
 - 💼 **MERN Stack Developer** at Click Masters
-- 🏢 Founder of **[Next Software Development](https://nextsoftwaredevelopment.com)** — a software agency serving clients across Pakistan, the US, UK, UAE, Canada, and Australia
 - 🌍 Based in Islamabad, Pakistan
 - 🛠️ I build production-grade systems: SaaS platforms, ERPs, CRMs, POS systems, and enterprise video management solutions
 - 📈 Currently focused on scaling a **Vertical SaaS** model (POS & Hotel Management) for local and global markets
