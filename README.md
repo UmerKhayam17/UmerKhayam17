@@ -1,107 +1,163 @@
 <div align="center">
 
-<img width="90" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Man%20technologist/3D/man_technologist_3d.png" />
+# 👨‍💻 Umer Khayam
 
-# Umer Khayam
+### Full-Stack Developer · SaaS Builder · Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%7C+MERN+%26+Django;Building+scalable+web+apps+%26+SaaS+products;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+MongoDB" alt="Typing SVG" />
+**I build scalable web applications, business platforms, and SaaS products.**
+
+<p>
+  <a href="https://github.com/UmerKhayam17">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=MERN+%7C+Next.js+%7C+Django;Building+SaaS+%7C+ERP+%7C+CRM+%7C+POS;Scalable+Architecture+%7C+APIs+%7C+Cloud;Turning+ideas+into+production-ready+products" />
 
 <br/>
 
-<a href="https://www.upwork.com" target="_blank"><img src="https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-<a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<!-- Live stat pills -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/UmerKhayam17&label=Public%20Repos&query=%24.public_repos&color=58A6FF&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/UmerKhayam17&label=Followers&query=%24.followers&color=1F6FEB&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Currently%20Building-4%20Active%20Projects-2EA043?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-<br/><br/>
-
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
+<img src="https://komarev.com/ghpvc/?username=UmerKhayam17&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
-<br/>
+---
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+## ⚡ About Me
 
-### <img width="24" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" /> About Me
+```text
+Full-Stack Developer focused on building real-world software products.
 
-- 💼 **MERN Stack Developer** at Click Masters
-- 🛠️ Building production-grade SaaS platforms, ERPs, CRMs, and POS systems
-- 📈 Currently scaling a **Vertical SaaS** model (POS & Hotel Management)
-- 🌍 Based in Islamabad, Pakistan
-- 💬 Ask me about React, Next.js, Node.js, Django, or system architecture
+→ SaaS platforms
+→ ERP & CRM systems
+→ POS & business management systems
+→ Real-time applications
+→ REST APIs & backend architecture
+→ AI / ML powered applications
+→ Production deployment & infrastructure
+```
 
-</td>
-<td valign="top" width="50%">
+* 💼 Full-Stack Developer at **Click Masters**
+* 🚀 Building production-grade SaaS and business platforms
+* 🧩 Strong focus on **MERN, Next.js & Django**
+* 🏗️ Interested in scalable architecture and multi-tenant systems
+* 🤖 Exploring AI-powered applications and computer vision
+* 🌍 Open to freelance, remote, and product-building opportunities
 
-### <img width="24" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Gear/3D/gear_3d.png" /> Tech Stack
+---
+
+## 🧠 Core Stack
+
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,python&perline=3" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,ts,tailwind,git,docker&perline=3" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vite&perline=6" />
 </p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,fastapi,cs&perline=6" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,nginx&perline=6" />
+</p>
+
+### Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,cloudflare&perline=6" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Business Platforms
+
+ERP systems, CRMs, POS platforms, inventory systems and operational dashboards designed around real business workflows.
+
+</td>
+
+<td width="50%">
+
+### ☁️ SaaS Products
+
+Multi-tenant applications with subscriptions, role-based permissions, billing, analytics and scalable APIs.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Real-Time Applications
+
+Live dashboards, notifications, messaging, Socket.io applications and systems requiring real-time updates.
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI-Powered Systems
+
+Computer vision, face recognition, ANPR, CCTV analytics and intelligent automation.
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-### <img width="24" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Alarm%20Clock/3D/alarm_clock_3d.png" /> Currently Working On
+## 🏆 Selected Work
+
+| Project                           | Technology                   | Highlights                                                     |
+| :-------------------------------- | :--------------------------- | :------------------------------------------------------------- |
+| 🎥 **Video Management System**    | Django · PostgreSQL · ML     | 240+ cameras · 4 sites · streaming replication · AI processing |
+| 🎓 **Academy Management System**  | MERN · Socket.io             | 9+ modules · RBAC · real-time communication                    |
+| 🛒 **Vertical SaaS POS**          | MERN · PostgreSQL            | IMEI tracking · multi-currency · subscriptions                 |
+| 🏥 **Hospital Management System** | MERN                         | Operations · patients · staff · reporting                      |
+| 📊 **CRM Platform**               | React · Node.js · PostgreSQL | Lead management · dashboards · automation                      |
+| ⚙️ **Enterprise ERP**             | MERN · Django                | Business workflows · reporting · role-based access             |
+
+---
+
+## 🔥 Currently Building
 
 <div align="center">
 
-| Repo | Status | Description |
-|---|---|---|
-| [`majestic-app`](https://github.com/UmerKhayam17/majestic-app) | 🟢 In Progress | Active build |
-| [`market-spyglass-13`](https://github.com/UmerKhayam17/market-spyglass-13) | 🟢 In Progress | Active build |
-| [`Prime-CRM-2`](https://github.com/UmerKhayam17/Prime-CRM-2) | 🟢 In Progress | CRM platform |
-| [`POS`](https://github.com/UmerKhayam17/POS) | 🟡 Maintaining | Vertical SaaS POS |
-| [`the-concept-hub`](https://github.com/UmerKhayam17/the-concept-hub) | 🟢 In Progress | Active build |
-| [`TCA`](https://github.com/UmerKhayam17/TCA) / [`tca-app`](https://github.com/UmerKhayam17/tca-app) | 🟡 Maintaining | Companion app |
+| Repository                                                                 | Status | Focus              |
+| :------------------------------------------------------------------------- | :----: | :----------------- |
+| [`majestic-app`](https://github.com/UmerKhayam17/majestic-app)             |   🟢   | Active Development |
+| [`market-spyglass-13`](https://github.com/UmerKhayam17/market-spyglass-13) |   🟢   | Active Development |
+| [`Prime-CRM-2`](https://github.com/UmerKhayam17/Prime-CRM-2)               |   🟢   | CRM Platform       |
+| [`POS`](https://github.com/UmerKhayam17/POS)                               |   🟡   | Vertical SaaS      |
+| [`the-concept-hub`](https://github.com/UmerKhayam17/the-concept-hub)       |   🟢   | Active Development |
+| [`TCA`](https://github.com/UmerKhayam17/TCA)                               |   🟡   | Maintaining        |
 
 </div>
 
-<br/>
+---
 
-### <img width="24" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" /> Featured Work
-
-<div align="center">
-
-| Project | Highlights |
-|---|---|
-| 🎥 **Video Management System** | 240+ cameras · 4 sites · PostgreSQL streaming replication · ML-based processing |
-| 🎓 **Academy Management System** | 9-module MERN platform · Socket.io · role-based permissions |
-| 🛒 **Vertical SaaS POS** | IMEI tracking · multi-currency · subscription billing |
-| 🏥 **Hospital Management System** | Full-featured MERN operations platform |
-| 📊 **CRM Platform** | [crm.primeleadsllc.com](https://crm.primeleadsllc.com) |
-| ⚙️ **SaaS ERP** | End-to-end enterprise resource planning |
-
-</div>
-
-<br/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### <img width="24" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" /> GitHub Stats
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=UmerKhayam17&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=UmerKhayam17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmerKhayam17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UmerKhayam17&theme=radical&hide_border=true&background=0D1117" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=UmerKhayam17&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UmerKhayam17&theme=react-dark&hide_border=true&bg_color=0D1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmerKhayam17&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
@@ -109,8 +165,111 @@
 
 <div align="center">
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=UmerKhayam17&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
-<img width="20" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Sparkles/3D/sparkles_3d.png" /> &nbsp;<i>Always building, always shipping.</i>&nbsp; <img width="20" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Sparkles/3D/sparkles_3d.png" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=UmerKhayam17&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🧩 Engineering Focus
+
+```yaml
+Frontend:
+  - React
+  - Next.js
+  - TypeScript
+  - Tailwind CSS
+
+Backend:
+  - Node.js
+  - Express
+  - Django
+  - FastAPI
+
+Architecture:
+  - REST APIs
+  - Modular Architecture
+  - Multi-Tenant SaaS
+  - Role-Based Access Control
+  - Real-Time Systems
+
+Database:
+  - PostgreSQL
+  - MongoDB
+  - MySQL
+  - Redis
+
+Infrastructure:
+  - Docker
+  - Nginx
+  - Linux
+  - Cloudflare
+  - CI/CD
+
+AI:
+  - Computer Vision
+  - Face Recognition
+  - Object Detection
+  - ANPR
+  - CCTV Analytics
+```
+
+---
+
+## 💡 My Development Philosophy
+
+> **Build it simple. Make it scalable. Ship it reliably.**
+
+I care about more than just writing code.
+
+My focus is on building software that is:
+
+**Scalable · Maintainable · Secure · Performant · Production-ready**
+
+---
+
+## 🤝 Let's Build Something
+
+Have an idea for a SaaS product, business platform, web application, or AI-powered system?
+
+<div align="center">
+
+### 🚀 Let's turn the idea into a real product.
+
+<br/>
+
+<a href="mailto:">
+<img src="https://img.shields.io/badge/EMAIL-MESSAGE_ME-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.upwork.com/">
+<img src="https://img.shields.io/badge/UPWORK-HIRE_ME-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code. Build. Scale.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+<sub>Designed & built by <b>Umer Khayam</b></sub>
 
 </div>
