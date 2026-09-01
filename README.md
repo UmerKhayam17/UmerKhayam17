@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Umer Khayam 👋</h1>
-<h3 align="center">Full Stack Developer | MERN & Python Specialist | Founder @ Next Software Development</h3>
+<h3 align="center">Full Stack Developer | MERN & Python Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+MERN+%26+Django;Turning+ideas+into+production-ready+SaaS;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB" alt="Typing SVG" />
