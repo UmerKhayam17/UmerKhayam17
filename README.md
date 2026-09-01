@@ -14,6 +14,13 @@
 
 <br/><br/>
 
+<!-- Live stat pills -->
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/UmerKhayam17&label=Public%20Repos&query=%24.public_repos&color=58A6FF&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/UmerKhayam17&label=Followers&query=%24.followers&color=1F6FEB&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Currently%20Building-4%20Active%20Projects-2EA043?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+<br/><br/>
+
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
 </div>
@@ -46,6 +53,23 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+### <img width="24" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Alarm%20Clock/3D/alarm_clock_3d.png" /> Currently Working On
+
+<div align="center">
+
+| Repo | Status | Description |
+|---|---|---|
+| [`majestic-app`](https://github.com/UmerKhayam17/majestic-app) | 🟢 In Progress | Active build |
+| [`market-spyglass-13`](https://github.com/UmerKhayam17/market-spyglass-13) | 🟢 In Progress | Active build |
+| [`Prime-CRM-2`](https://github.com/UmerKhayam17/Prime-CRM-2) | 🟢 In Progress | CRM platform |
+| [`POS`](https://github.com/UmerKhayam17/POS) | 🟡 Maintaining | Vertical SaaS POS |
+| [`the-concept-hub`](https://github.com/UmerKhayam17/the-concept-hub) | 🟢 In Progress | Active build |
+| [`TCA`](https://github.com/UmerKhayam17/TCA) / [`tca-app`](https://github.com/UmerKhayam17/tca-app) | 🟡 Maintaining | Companion app |
+
+</div>
 
 <br/>
 
